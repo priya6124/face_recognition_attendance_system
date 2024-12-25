@@ -1,6 +1,6 @@
 ### README.md
 
-```markdown
+
 # Face Recognition Attendance System
 
 ## Overview
@@ -17,7 +17,7 @@ This project implements a **Face Recognition Attendance System** using Python. I
 
 ## Directory Structure
 
-```
+
 project/
 │
 ├── AttendanceImage/    
